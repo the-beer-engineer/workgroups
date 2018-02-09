@@ -21,3 +21,4 @@ This meeting exists to discuss all topics regarding expanding the block size.
 - Jason Cox, jasonbcox
 - Tom Harding, @dgenr8, Bitcoin XT
 - Ryan X. Charles, ryan@yours.org, Yours Inc.
+- Brendan Lee, brendanjlee@gmail.com, @brendo_l, u/the_beer_engineer
